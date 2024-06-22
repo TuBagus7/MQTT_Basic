@@ -11,7 +11,7 @@ MQTTClient mqtt;
 NusabotSimpleTimer timer;
 DHTesp dht;
 
-const char ssid[] = "Wokwi-GUEST"; //default WiFi by Wokwi
+const char ssid[] = "Wokwi-GUEST"; //Wokwi WiFi by default
 const char pass[] = "";
 
 const int led_red = 27;
